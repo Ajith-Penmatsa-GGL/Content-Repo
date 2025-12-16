@@ -122,6 +122,17 @@
       "name": "Cryptocurrency Wallet",
       "description": "This threat model has been provided by the OWASP Threat Model Cookbook:\nthreat-model-cookbook/Flow Diagram/cryptocurrency-wallet",
       "tags": []
+    },
+    {
+      "id": "56aad026-cb58-42d6-a95e-4f781d585775",
+      "name": "Renting Car Startup",
+      "description": "This threat model has been provided by the OWASP Threat Model Cookbook:\nthreat-model-cookbook/Flow Diagram/renting-car-startup",
+      "tags": [
+        "full stack",
+        "car",
+        "web",
+        "app"
+      ]
     }
   ]
 }
