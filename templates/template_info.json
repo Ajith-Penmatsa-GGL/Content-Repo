@@ -1,16 +1,3 @@
 {
-  "templates": [
-    {
-      "id": "e0cfc2b8-a73c-4098-bac8-01aeed05755b",
-      "name": "Renting Car Startup",
-      "description": "This threat model has been provided by the OWASP Threat Model Cookbook:\nthreat-model-cookbook/Flow Diagram/renting-car-startup",
-      "tags": [
-        "web",
-        "full-stack",
-        "java",
-        "c#"
-      ],
-      "modelRef": "0b7afb4d-72b2-44e8-bce8-1cc90d4e3c33"
-    }
-  ]
+  "templates": []
 }
