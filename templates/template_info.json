@@ -3,62 +3,119 @@
     {
       "name": "web-app-security",
       "description": "Comprehensive security template for web applications covering authentication, authorization, data validation, and common vulnerabilities",
-      "tags": ["web", "security", "owasp", "authentication"],
+      "tags": [
+        "web",
+        "security",
+        "owasp",
+        "authentication"
+      ],
       "filename": "web-app-security.json"
     },
     {
       "name": "mobile-app-security",
       "description": "Security template for iOS and Android mobile applications including secure storage, network security, and platform-specific threats",
-      "tags": ["mobile", "ios", "android", "security"],
+      "tags": [
+        "mobile",
+        "ios",
+        "android",
+        "security"
+      ],
       "filename": "mobile-app-security.json"
     },
     {
       "name": "cloud-infrastructure",
       "description": "Template for securing cloud infrastructure on AWS, Azure, or GCP covering IAM, networking, storage, and compute resources",
-      "tags": ["cloud", "aws", "azure", "gcp", "infrastructure"],
+      "tags": [
+        "cloud",
+        "aws",
+        "azure",
+        "gcp",
+        "infrastructure"
+      ],
       "filename": "cloud-infrastructure.json"
     },
     {
       "name": "api-security",
       "description": "REST and GraphQL API security template covering authentication, rate limiting, input validation, and API-specific threats",
-      "tags": ["api", "rest", "graphql", "security"],
+      "tags": [
+        "api",
+        "rest",
+        "graphql",
+        "security"
+      ],
       "filename": "api-security.json"
     },
     {
       "name": "microservices-architecture",
       "description": "Security considerations for microservices including service-to-service authentication, service mesh, and distributed tracing",
-      "tags": ["microservices", "docker", "kubernetes", "security"],
+      "tags": [
+        "microservices",
+        "docker",
+        "kubernetes",
+        "security"
+      ],
       "filename": "microservices-architecture.json"
     },
     {
       "name": "iot-device-security",
       "description": "Template for Internet of Things devices covering firmware security, secure boot, device identity, and update mechanisms",
-      "tags": ["iot", "embedded", "firmware", "security"],
+      "tags": [
+        "iot",
+        "embedded",
+        "firmware",
+        "security"
+      ],
       "filename": "iot-device-security.json"
     },
     {
       "name": "financial-application",
       "description": "Security template for financial applications addressing PCI-DSS compliance, transaction security, and fraud prevention",
-      "tags": ["finance", "pci-dss", "compliance", "security"],
+      "tags": [
+        "finance",
+        "pci-dss",
+        "compliance",
+        "security"
+      ],
       "filename": "financial-application.json"
     },
     {
       "name": "healthcare-hipaa",
       "description": "HIPAA-compliant security template for healthcare applications covering PHI protection, access controls, and audit logging",
-      "tags": ["healthcare", "hipaa", "compliance", "security"],
+      "tags": [
+        "healthcare",
+        "hipaa",
+        "compliance",
+        "security"
+      ],
       "filename": "healthcare-hipaa.json"
     },
     {
       "name": "ecommerce-platform",
       "description": "Security template for e-commerce platforms covering payment processing, customer data protection, and supply chain security",
-      "tags": ["ecommerce", "payment", "retail", "security"],
+      "tags": [
+        "ecommerce",
+        "payment",
+        "retail",
+        "security"
+      ],
       "filename": "ecommerce-platform.json"
     },
     {
       "name": "saas-multi-tenant",
       "description": "Security considerations for multi-tenant SaaS applications including tenant isolation, data segregation, and shared infrastructure",
-      "tags": ["saas", "multi-tenant", "cloud", "security"],
+      "tags": [
+        "saas",
+        "multi-tenant",
+        "cloud",
+        "security"
+      ],
       "filename": "saas-multi-tenant.json"
+    },
+    {
+      "id": "54caa268-721a-4da8-8fb5-175f7d1a5fbe",
+      "name": "Online Battle Royale Games",
+      "description": "This threat model has been provided by the OWASP Threat Model Cookbook:\nthreat-model-cookbook/Flow Diagram/online-battleroyale-game",
+      "tags": []
     }
   ]
 }
