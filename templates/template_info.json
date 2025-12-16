@@ -116,6 +116,12 @@
       "name": "Online Battle Royale Games",
       "description": "This threat model has been provided by the OWASP Threat Model Cookbook:\nthreat-model-cookbook/Flow Diagram/online-battleroyale-game",
       "tags": []
+    },
+    {
+      "id": "45facaad-26a7-4f5c-a70e-4d68b8300292",
+      "name": "Cryptocurrency Wallet",
+      "description": "This threat model has been provided by the OWASP Threat Model Cookbook:\nthreat-model-cookbook/Flow Diagram/cryptocurrency-wallet",
+      "tags": []
     }
   ]
 }
