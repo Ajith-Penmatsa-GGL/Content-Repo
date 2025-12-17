@@ -33,6 +33,16 @@
         "dataset-security"
       ],
       "modelRef": "8c5a8975-2f57-44ca-b089-c571866e3e2f"
+    },
+    {
+      "id": "9a8f4bdc-a82d-4615-8967-f577aeb9a2c4",
+      "name": "Internet of Things (IoT) Device",
+      "description": "This threat model has been provided by the OWASP Threat Model Cookbook:\nthreat-model-cookbook/Flow Diagram/iot-device",
+      "tags": [
+        "IOT",
+        "IOT-Protocols"
+      ],
+      "modelRef": "0e3bebfd-dd47-4719-b387-1f72c0e71a5e"
     }
   ]
 }
