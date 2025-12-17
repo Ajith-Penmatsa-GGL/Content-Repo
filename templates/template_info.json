@@ -11,6 +11,12 @@
         "c#"
       ],
       "modelRef": "0b7afb4d-72b2-44e8-bce8-1cc90d4e3c33"
+    },
+    {
+      "id": "54caa268-721a-4da8-8fb5-175f7d1a5fbe",
+      "name": "Online Battle Royale Games",
+      "description": "This threat model has been provided by the OWASP Threat Model Cookbook:\nthreat-model-cookbook/Flow Diagram/online-battleroyale-game",
+      "tags": []
     }
   ]
 }
