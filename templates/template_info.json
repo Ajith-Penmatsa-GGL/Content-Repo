@@ -43,6 +43,16 @@
         "IOT-Protocols"
       ],
       "modelRef": "0e3bebfd-dd47-4719-b387-1f72c0e71a5e"
+    },
+    {
+      "id": "3ea2b210-ca86-4546-8007-f0c225b32943",
+      "name": "Online Battle Royale Games",
+      "description": "This threat model has been provided by the OWASP Threat Model Cookbook:\nthreat-model-cookbook/Flow Diagram/online-battleroyale-game",
+      "tags": [
+        "Peer-Peer",
+        "Full-Stack"
+      ],
+      "modelRef": "c187e74a-add7-486d-9c3d-2221ebbdaec3"
     }
   ]
 }
