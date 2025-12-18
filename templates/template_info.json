@@ -1,17 +1,6 @@
 {
   "templates": [
     {
-      "id": "a89893b0-33d9-4df9-a7f2-d67f521531f9",
-      "name": "Management System (CMS)",
-      "description": "This threat model has been provided by the OWASP Threat Model Cookbook:\nthreat-model-cookbook/Flow Diagram/generic-cms",
-      "tags": [
-        "CMS",
-        "Azure",
-        "Cloud-Security"
-      ],
-      "modelRef": "45f7ab6d-7e3c-4ee7-97aa-7c982e763bba"
-    },
-    {
       "id": "9a8f4bdc-a82d-4615-8967-f577aeb9a2c4",
       "name": "Internet of Things (IoT) Device",
       "description": "This threat model has been provided by the OWASP Threat Model Cookbook:\nthreat-model-cookbook/Flow Diagram/iot-device",
