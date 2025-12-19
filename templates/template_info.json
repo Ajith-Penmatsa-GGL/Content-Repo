@@ -20,6 +20,15 @@
         "Full-Stack"
       ],
       "modelRef": "c187e74a-add7-486d-9c3d-2221ebbdaec3"
+    },
+    {
+      "id": "64e5d435-523b-455b-aae5-1dfdb16c8043",
+      "name": "Test Template - Online Battle Royale Game",
+      "description": "Template created from a model, which was created from template, which was itself created from a sample model",
+      "tags": [
+        "games"
+      ],
+      "modelRef": "906513c3-bf0f-471a-9e84-0d1ce6d3bcc4"
     }
   ]
 }
