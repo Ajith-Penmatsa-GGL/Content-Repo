@@ -7,7 +7,11 @@
     "id": ""
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "backend dev"
+      }
+    ],
     "diagrams": [
       {
         "id": "f09ceea2-3cff-4a6a-aa52-217d714fc4e4",
