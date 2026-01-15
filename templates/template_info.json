@@ -1,17 +1,6 @@
 {
   "templates": [
     {
-      "id": "a89893b0-33d9-4df9-a7f2-d67f521531f9",
-      "name": "Generic Content Management System (CMS)",
-      "description": "This threat model has been provided by the OWASP Threat Model Cookbook:\nthreat-model-cookbook/Flow Diagram/generic-cms",
-      "tags": [
-        "CMS",
-        "Azure",
-        "Cloud-Security"
-      ],
-      "modelRef": "45f7ab6d-7e3c-4ee7-97aa-7c982e763bba"
-    },
-    {
       "id": "3ea2b210-ca86-4546-8007-f0c225b32943",
       "name": "Online Battle Royale Games",
       "description": "This threat model has been provided by the OWASP Threat Model Cookbook:\nthreat-model-cookbook/Flow Diagram/online-battleroyale-game",
