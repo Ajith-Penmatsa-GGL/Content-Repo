@@ -1,16 +1,6 @@
 {
   "templates": [
     {
-      "id": "3ea2b210-ca86-4546-8007-f0c225b32943",
-      "name": "Test Template - Internet of Things (IoT) Device",
-      "description": "This threat model has been provided by the OWASP Threat Model Cookbook:\nthreat-model-cookbook/Flow Diagram/online-battleroyale-game",
-      "tags": [
-        "Peer-Peer",
-        "Full-Stack"
-      ],
-      "modelRef": "c187e74a-add7-486d-9c3d-2221ebbdaec3"
-    },
-    {
       "id": "890a27c1-7209-4f0e-beca-061781c1b4a7",
       "name": "Test Template - Internet of Things (IoT) Device",
       "description": "This threat model has been provided by the OWASP Threat Model Cookbook:\nthreat-model-cookbook/Flow Diagram/iot-device",
