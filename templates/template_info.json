@@ -1,11 +1,3 @@
 {
-  "templates": [
-    {
-      "id": "890a27c1-7209-4f0e-beca-061781c1b4a7",
-      "name": "T",
-      "description": "",
-      "tags": [],
-      "modelRef": "d0946a41-3d10-45f3-b6ad-9fbf18ab8bbd"
-    }
-  ]
+  "templates": []
 }
